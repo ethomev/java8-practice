@@ -21,7 +21,7 @@ public class HeadLessTest {
     public void testChromeExecution() throws IOException {
 
         //FIXME driver can be downloaded from here: https://chromedriver.storage.googleapis.com/index.html
-        System.setProperty("webdriver.chrome.driver", "/home/ethomev/Work/selenium/drivers/chrome/chrome-linux-x64");
+        System.setProperty("webdriver.chrome.driver", "/home/ethomev/Work/selenium/drivers/chrome/2.29/chromedriver");
 
         // Add options to Google Chrome. The window-size is important for responsive sites
 
